@@ -21,6 +21,5 @@
 open module be.yildizgames.module.jwt {
 
     exports be.yildizgames.module.jwt;
-    exports be.yildizgames.module.jwt.session;
 
 }
